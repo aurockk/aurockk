@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **as a Front End Dev Junior**
 
-- 🤝 I’m looking for help with **Animations with Canva, JQuery and css animations**
-
 - 👨‍💻 All of my projects are available at [https://auristeladiaz.github.io/Portfolio/](https://auristeladiaz.github.io/Portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Git, SQL, Nodejs**
