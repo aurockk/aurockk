@@ -1,4 +1,4 @@
-<h1 align="center">I'm Auristela Diaz Luna</h1>
+<h1 align="center">Auristela Diaz Luna</h1>
 <h3 align="center">A passionate Front End Developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Dream Junk Studios](https://dreamjunk.co)
