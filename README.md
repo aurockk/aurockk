@@ -1,13 +1,9 @@
 <h1 align="center">Auristela Diaz Luna</h1>
 <h3 align="center">A passionate Front End Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Dream Junk Studios](https://dreamjunk.co)
-
 - 🌱 I’m currently learning **React, TailwindCSS, Canvas**
 
 - 👯 I’m looking to collaborate on **as a Front End Dev Junior**
-
-- 👨‍💻 All of my projects are available at [https://auristeladiaz.github.io/Portfolio/](https://auristeladiaz.github.io/Portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Git, SQL, Nodejs, MongoDB**
 
