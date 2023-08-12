@@ -21,10 +21,6 @@ Hi, I'm Aurock :duck:. You might recognize me in..._well, you might not recogniz
 
 I'm a naturally curious person who likes to learn new skills, technologies, ***things in general***...
 
-#### 📖Currently I'm learning: 
-- React
-* TailwindCSS
-+ Docker
 #### ✉️ How to reach me
 - [Email](auristeladiazesc@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/auristela-diaz/)
