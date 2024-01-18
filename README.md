@@ -1,6 +1,5 @@
 <h1 align="center">Auristela Diaz Luna</h1>
-<h3 align="center">Front End Developer from Argentina.<br> 
-<em>Road to Full-Stack</em></h3>
+<h3 align="center">FullStack Engineer<br> 
 
 ### About me
 
@@ -15,7 +14,7 @@ Hi, I'm Aurock :duck:. You might recognize me in..._well, you might not recogniz
 |     1| Javascript|
 |     2| Node.js   |
 |     3| MongoDB   |
-|     4| HTML/CSS  |
+|     4| React     |
 
 </details>
 
