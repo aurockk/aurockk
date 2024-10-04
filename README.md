@@ -3,23 +3,8 @@
 
 ### About me
 
-Hi, I'm Aurock :duck:. You might recognize me in..._well, you might not recognize me at all._
-
 <img align="right" height="350" src="https://res.cloudinary.com/dxifeijbk/image/upload/v1677548328/Auri/Comi_Auri_izwbhd.png">
 <details open>
-<summary><strong>My top languages</strong></summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Node.js   |
-|     3| MongoDB   |
-|     4| React     |
-
-</details>
-
-I'm a naturally curious person who likes to learn new skills, technologies, ***things in general***...
-
 #### ✉️ How to reach me
 - [Email](auristeladiazesc@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/auristela-diaz/)
